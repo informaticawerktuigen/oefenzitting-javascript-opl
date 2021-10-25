@@ -287,7 +287,7 @@ Voeg onderstaande functies toe aan *code.js*. Gebruik telkens de *Console* in de
     
     Ten slotte schrijven we de functie die opgeroepen zal worden telkens wanneer we klikken op een plaats op het spelbord.
     
-    Met onderstaande code kan je opvragen op welke positie geklikt er geklikt werd:
+    Met onderstaande code kan je opvragen op welke positie er geklikt werd:
     
     ``` JavaScript
       let col = cell.cellIndex;
